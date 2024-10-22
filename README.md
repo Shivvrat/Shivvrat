@@ -2,18 +2,19 @@
 
 ### Welcome!
 
-I am Shivvrat Arya (you can call me Shiv (pronounced as [ sh ih v ])). Currently I am working with  Dr. Vibhav Gogate and  Dr. Yu Xiang on Perceptually-Enabled Task Guidance (PTG) grant in which we are trying to develop Artificial Intelligence (AI) technology that guides users in the
-performance of a wide range of cognitively challenging physical tasks. PTG will leverage recent advances in machine perception,
-automated reasoning, and augmented reality. We are mainly working on the task of activity recognition on Egocentric Datasets like Epic Kitchens and Multi-Label Datasets like Charades, AVA, Tacos, and Wetlab.
+I am Shivvrat Arya but feel free to call me Shiv (pronounced as [ sh ih v ]). I am currently engaged in collaborative research projects under the guidance of [Dr. Vibhav Gogate](https://personal.utdallas.edu/~vibhav.gogate/) and [Dr. Yu Xiang](https://yuxng.github.io/), funded by the DARPA Explainable Artificial Intelligence (XAI), DARPA Perceptually-Enabled Task Guidance (PTG) and DARPA Assured Neuro Symbolic Learning and Reasoning (ANSR) grants. Our goal is to develop AI technology that guides users in performing cognitively challenging physical tasks, leveraging breakthroughs in machine perception, automated reasoning, and augmented reality.
 
-My research at the Indian Institute of Technology Indore (IITI) focused on using non-iterative and advanced neural network structures to solve the problem of multi-label classification. Two journal paper submissions and one conference acceptance have been completed for this project. We used 15 datasets for the evaluation, which include yeast, scene, BibTeX, emotions, Enron, medical, corel5k, bookmarks, delicious, mediamill, and the rcv1v2 series.
-The evaluation metrics used for the comparison were Hamming Loss, Ranking loss, One error, Coverage, and Average precision. We compared the proposed algorithm with the following state-of-the-art algorithms, Rank – SVM, ELMOnline, MLKN, BPMLL, and ELM.
+Broadly speaking, my research interests primarily focus on artificial intelligence and machine learning, with an emphasis on neuro-symbolic and graph-based methods. I aim to develop AI systems that can reason and understand in ways that are both interpretable and explainable to humans. My work involves integrating formal models of the world—typically provided by domain experts or grounded in scientific theories—with powerful function approximators like neural networks. I have developed novel neural network-based inference methods for probabilistic graphical models and explored advanced inference schemes for multi-label classification. These contributions have been recognized with best paper awards, as well as spotlight and oral presentations.
+
+In video understanding, I developed pipelines for procedural error recognition, explainable models for activity recognition, and predictive task guidance in augmented reality. My research on explainable activity recognition integrates deep learning with dynamic conditional cutset networks, enabling interpretable models that support polynomial-time reasoning queries. Additionally, I co-developed CaptainCook4D, an egocentric 4D dataset designed to benchmark error recognition and multi-step localization in procedural tasks. My work in augmented reality focuses on dynamic, real-time task guidance systems.
+
+During my Bachelor's thesis project at IIT Indore, I focused on developing non-iterative neural network architectures to address multi-label classification challenges across diverse datasets.
 
 ### About me
 
-I am pursuing my Ph.D. in the Department of Computer Science at the University of Texas at Dallas. I aspire to become a researcher who exercises the skills gained through academic research to solve problems in the discipline of Computer Science, leading to the development of cutting-edge technologies. I am consistently looking for arduous opportunities that would help me to test my knowledge and learn a new set of skills.
-I am pursuing a Ph.D. and a M.S. degree in Computer Science from the The University of Texas at Dallas, where I am working with Dr. Vibhav Gogate  and  Dr. Yu Xiang.
-I hold B.Tech. Degree in Computer Science and Engineering from the Indian Institute of Information Technology Vadodara
+I am a Ph.D. candidate in the Department of Computer Science at The University of Texas at Dallas, where I am honing my research skills to address complex problems in Computer Science and contribute to the advancement of innovative technologies. I am always on the lookout for challenging opportunities that push the boundaries of my knowledge and allow me to acquire new skills.
+
+In addition to my Ph.D., I am also pursuing an M.S. degree in [Computer Science](https://cs.utdallas.edu/education/graduate/) at UT Dallas, working closely with [Dr. Vibhav Gogate](https://personal.utdallas.edu/~vibhav.gogate/) and [Dr. Yu Xiang](https://yuxng.github.io/). I hold a B.Tech. Degree in Computer Science and Engineering from the Indian Institute of Information Technology Vadodara.
 
 <!--
 **Shivvrat/Shivvrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
